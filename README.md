@@ -6,3 +6,4 @@ Desenvolvendo minhas habilidades em Python criando projetos de *Data Science*.
 
 ## Projetos:
 * **Analisando dados do Airbnb para a cidade de Nova York :** https://bit.ly/2SbdgqN
+* **Analisando a Viôlencia no Rio de Janeiro:** https://bit.ly/3dpB7KK
