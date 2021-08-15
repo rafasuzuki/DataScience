@@ -8,3 +8,4 @@ Desenvolvendo minhas habilidades em Python criando projetos de *Data Science*.
 * **Analisando dados do Airbnb para a cidade de Nova York :** https://bit.ly/2SbdgqN
 * **Analisando a Violência no Rio de Janeiro:** https://bit.ly/3dpB7KK
 * **Detecção de Fraudes em Cartões de Crédito :** https://bit.ly/3za9ePb
+* **Churn Prediction para uma empresa de Telecomunicacoes :**https://bit.ly/3xNbefd
