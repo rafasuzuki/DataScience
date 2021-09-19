@@ -9,3 +9,4 @@ Desenvolvendo minhas habilidades em Python criando projetos de *Data Science*.
 * **Analisando a Violência no Rio de Janeiro:** https://bit.ly/3dpB7KK
 * **Detecção de Fraudes em Cartões de Crédito :** https://bit.ly/3za9ePb
 * **Churn Prediction para uma empresa de Telecomunicações :** https://bit.ly/3xNbefd
+* **Avaliação de Risco de Crédito:** https://bit.ly/39jwdwm
