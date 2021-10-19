@@ -11,3 +11,4 @@ Desenvolvendo minhas habilidades em Python criando projetos de *Data Science*.
 * **Churn Prediction para uma empresa de Telecomunicações :** https://bit.ly/3xNbefd
 * **Avaliação de Risco de Crédito:** https://bit.ly/39jwdwm
 * **Classificador de Fake News:** https://bit.ly/3zO2E0U
+* **Limpando Gráficos:** https://bit.ly/3lR3t5e
