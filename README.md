@@ -12,3 +12,4 @@ Desenvolvendo minhas habilidades em Python criando projetos de *Data Science*.
 * **Avaliação de Risco de Crédito:** https://bit.ly/39jwdwm
 * **Classificador de Fake News:** https://bit.ly/3zO2E0U
 * **Limpando Gráficos:** https://bit.ly/3lR3t5e
+* **Predizendo Valores de Seguro de Vida com Pycaret:** https://bit.ly/2ZUNXg6
